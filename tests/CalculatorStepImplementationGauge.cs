@@ -6,7 +6,7 @@ using FluentAssertions;
 
 namespace SampleProjectGauge
 {
-	public class CalculatorStepImplementation
+	public class CalculatorStepImplementationGauge
 	{
         private readonly Calculator _calculatorApp = new Calculator();
         private int _result;
